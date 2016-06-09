@@ -1,0 +1,26 @@
+{
+  "name": "threejs",
+  "version": "1.0.0",
+  "description": "Three js examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajslegacy/threejs.git"
+  },
+  "keywords": [
+    "threejs",
+    "node"
+  ],
+  "author": "Rajasekhar Dareddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajslegacy/threejs/issues"
+  },
+  "homepage": "https://github.com/rajslegacy/threejs#readme",
+  "dependencies": {
+    "browser-sync": "^2.13.0"
+  }
+}
